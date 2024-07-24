@@ -5,7 +5,7 @@ using Zenject;
 
 namespace Tityx.WorldUI
 {
-    [CreateAssetMenu(menuName = "ToolsAndMechanics/World UI/Installer")]
+    [CreateAssetMenu(menuName = "Tityx/World UI/Installer")]
     public class WorldUIInstaller : ScriptableObjectInstaller
     {
         public override void InstallBindings()
